@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "470188195835",
+    "project_id": "socialsignin-acaf4",
+    "storage_bucket": "socialsignin-acaf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470188195835:android:1998061ddcfbb97d23955e",
+        "android_client_info": {
+          "package_name": "com.socialsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470188195835-o02ngn99n9dcbjre6sdsd9442euagkan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialsignin",
+            "certificate_hash": "545b32c05ea2b6a996d6452cdd7225bd61053d7d"
+          }
+        },
+        {
+          "client_id": "470188195835-qbcoc0e3q7d6r833g52jgbamn28nk0k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialsignin",
+            "certificate_hash": "461ed62cd952da5b743fc428c45b812b9a6222e7"
+          }
+        },
+        {
+          "client_id": "470188195835-plf0c18sa10rpit6j6d5dp7rro7f4gr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoikQRapMIfY7wRUoJro_MP3me3bn0e-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470188195835-plf0c18sa10rpit6j6d5dp7rro7f4gr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
